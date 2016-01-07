@@ -1,0 +1,20 @@
+{
+  "name": "home-llc",
+  "version": "1.0.0",
+  "description": "sneedhome-llc remodel",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackSSS/home-llc.git"
+  },
+  "author": "JackSSS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackSSS/home-llc/issues"
+  },
+  "homepage": "https://github.com/JackSSS/home-llc#readme"
+}
